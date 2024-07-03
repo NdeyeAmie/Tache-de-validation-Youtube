@@ -302,7 +302,7 @@ margin-left: 5px;
 
 /* responsive */
 
-/* @media (max-width:1200px) {
+@media (max-width:1200px) {
     .sidebar {
         width: 70px;
         overflow-x: hidden;
@@ -342,4 +342,4 @@ margin-left: 5px;
     .header{
         padding-right: 10px;
     }
-  } */
+  }
